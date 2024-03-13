@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-37.6%25-orange">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-39.4%25-orange">
   
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-23.5%25-FFD700">
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-15.4%25-FFD700">
 
   <br>
   
