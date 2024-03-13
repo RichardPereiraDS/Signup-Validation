@@ -9,7 +9,7 @@
 
   <br>
   
-  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+  <a href="https://www.linkedin.com/in/t%C3%ARichard_Pereira/">
     <img alt="Made by Richard" src="https://img.shields.io/badge/Made%20by-Richard-red">
   </a>
 </p>
