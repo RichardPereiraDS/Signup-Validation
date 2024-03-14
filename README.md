@@ -29,7 +29,7 @@ Este é um repositório contendo Um Website(Frontend) Com Login e Cadastro e Out
 ## Como utilizar o projeto
 
 ```bash
-  ❯ git clone https://
+  ❯ git clone https://github.com/RichardPereiraDS/Website-Login-and-Signup
 ```
 
 ---
