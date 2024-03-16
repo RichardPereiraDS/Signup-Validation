@@ -18,7 +18,7 @@
 
 ## Sobre o Repositório
 
-Este é um repositório contendo Um Website(Frontend) Com Login e Cadastro e Outras opções pra implementações futuras como, Home, Contato entre outros.
+Este é um Projeto contendo Um Website(Frontend) Com Login e Cadastro e Outras opções pra implementações futuras.
 
 ---
 
